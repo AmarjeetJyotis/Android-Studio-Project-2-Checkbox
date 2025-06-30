@@ -25,6 +25,25 @@ This is a simple Android application that demonstrates the use of `CheckBox` wid
 - Java
 - XML Layout (RelativeLayout)
 
+---
+
+## 🧑‍💻 Author
+
+**Amarjeet Kumar**  
+**UID:** 21BCS10768  
+**Department of Computer Science & Engineering**  
+**Chandigarh University**
+
+**Portfolio:** [https://amarjeetkr.vercel.app/](https://amarjeetkr.vercel.app/)  
+**LinkTree:** [https://linktr.ee/AmarjeetKumarJyotish](https://linktr.ee/AmarjeetKumarJyotish)  
+**GitHub:** [https://github.com/AmarjeetJyotis](https://github.com/AmarjeetJyotis)  
+**LinkedIn:** [https://www.linkedin.com/in/amarjeet-jyotish/](https://www.linkedin.com/in/amarjeet-jyotish/)  
+**GeeksforGeeks:** [https://www.geeksforgeeks.org/user/amarjeetjyotish/](https://www.geeksforgeeks.org/user/amarjeetjyotish/)  
+**LeetCode:** [https://leetcode.com/u/AmarjeetJyotish/](https://leetcode.com/u/AmarjeetJyotish/)
+
+
+---
+
 ## 📁 Project Structure
 
 📦checkbox
@@ -98,12 +117,3 @@ Improve the UI using Material Components.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Created with ❤️ using Android Studio
-
-yaml
-Copy
-Edit
-
----
-
-You can rename the repository something like `android-checkbox-example` and place the screenshot image in a folder named `screenshots/checkbox_ui.png`, or update the path accordingly. Let me know if you'd like me to help generate the Java code for the button functionality too.
-
